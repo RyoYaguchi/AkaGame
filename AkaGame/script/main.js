@@ -1,5 +1,5 @@
 function main(){
-	g.game.pushScene(start1());
+g.game.pushScene(start1());
 }
 //start画面
 function start1(){
